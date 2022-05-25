@@ -1,7 +1,4 @@
 # Projeto BK
-
-Projeto desenvolvido para o evento Projeto Burger Kingministrado pelos instrutores da Kenzie Academy Brasil em parceria com o Burger King.
-
 ## Ferramentas
 
 1. [Instalação do VS Code no Windows](https://kenzie.com.br/blog/instalacao-vs-code-windows/)
