@@ -22,8 +22,16 @@ body{
     text-align: center;
 }
 @media screen and (max-width: 600px) {
+    .containerimg{
+        max-height: 41px;
+        width: auto;
+        height: auto;
+    }
     .produtoscaixa{
       margin: 30px 0;
+    }
+    .banner{
+        
     }
   }
 .produtos{
